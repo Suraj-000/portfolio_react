@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Suraj-000/portfolio_react.git/static/css/main.84353b2e.css",
-    "main.js": "/Suraj-000/portfolio_react.git/static/js/main.80a6b84e.js",
+    "main.css": "/Suraj-000/portfolio_react.git/static/css/main.182ae0c4.css",
+    "main.js": "/Suraj-000/portfolio_react.git/static/js/main.3066cce0.js",
     "static/media/1.jpg": "/Suraj-000/portfolio_react.git/static/media/1.bd3176404fa94cd05e52.jpg",
     "static/media/github.svg": "/Suraj-000/portfolio_react.git/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
     "static/media/linkedin.svg": "/Suraj-000/portfolio_react.git/static/media/linkedin.fad6cb3b7ce0a6b6474fa2bc8ce52bc7.svg",
     "index.html": "/Suraj-000/portfolio_react.git/index.html",
-    "main.84353b2e.css.map": "/Suraj-000/portfolio_react.git/static/css/main.84353b2e.css.map",
-    "main.80a6b84e.js.map": "/Suraj-000/portfolio_react.git/static/js/main.80a6b84e.js.map"
+    "main.182ae0c4.css.map": "/Suraj-000/portfolio_react.git/static/css/main.182ae0c4.css.map",
+    "main.3066cce0.js.map": "/Suraj-000/portfolio_react.git/static/js/main.3066cce0.js.map"
   },
   "entrypoints": [
-    "static/css/main.84353b2e.css",
-    "static/js/main.80a6b84e.js"
+    "static/css/main.182ae0c4.css",
+    "static/js/main.3066cce0.js"
   ]
 }
