@@ -16,9 +16,7 @@ export default function Home() {
     </div>
       <div className="home-bottom">
       <a href="https://github.com/Suraj-000" target="_blank" rel="noopener noreferrer"><img src={github} alt="GitHub Account" className="account-logo" /></a>        
-      <a href="https://www.linkedin.com/in/reddy-suraj/" target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="linkedin" className="account-logo" /></a>       
-      {/* <a email="reddy.suraj.official@gmail.com" target="_blank" rel="noopener noreferrer"><img src={email} alt="email" className="account-logo" /></a>        */}
-
+      <a href="https://www.linkedin.com/in/reddy-suraj/" target="_blank" rel="noopener noreferrer"><img src={linkedin} alt="linkedin" className="account-logo" /></a>         
       </div>
   </section>
   )

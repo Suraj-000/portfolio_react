@@ -6,7 +6,7 @@ export default function Navbar() {
   return (
     <nav className='navbar'>
         <div className="navbar-left">
-        <ScrollLink to="/" className="navbar-brand ">Chapter<span className='half-logo'>Zero</span></ScrollLink>
+        <ScrollLink to="homeSection" className="navbar-brand ">Chapter<span className='half-logo'>Zero</span></ScrollLink>
         </div>
         <div className="navbar-right">
       <ul >

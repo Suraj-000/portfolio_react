@@ -7,7 +7,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact'
 
 
-import { Link as ScrollLink, Element } from 'react-scroll';
+import { Link as  Element } from 'react-scroll';
 
 
 function App() {
